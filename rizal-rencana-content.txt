@@ -1,8 +1,10 @@
-belajar javascript
-belajar framework
-  *react 
-  *angular
- belajar PHP
-  *belajar php framework
-    *laravel
-   
+ -belajar javascript
+  *es6
+  *framework javascript
+    *vue
+    *react js
+    *angular   
+ -belajar struktur data
+ -belajar PHP framework
+  *belajar laravel
+  -python
