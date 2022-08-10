@@ -2,6 +2,7 @@
   *es6
   *framework javascript
     *vue
+    *react js
  -belajar struktur data
  -belajar PHP framework
   *belajar laravel
