@@ -1,11 +1,10 @@
--belajar javascript
+ -belajar javascript
   *es6
   *framework javascript
     *vue
     *react js
+    *angular   
  -belajar struktur data
  -belajar PHP framework
   *belajar laravel
--interview
--vlogs
--python
+  -python
