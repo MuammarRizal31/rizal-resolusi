@@ -1,4 +1,10 @@
-MEMBUAT RENCANA CONTENT
--MELAMAR KERJA
--membuat semua orang merasakan bahagia bwakakkawka
--SEMOGA SEHAT SELALU
+-belajar javascript
+  *es6
+  *framework javascript
+    *vue
+ -belajar struktur data
+ -belajar PHP framework
+  *belajar laravel
+-interview
+-vlogs
+-python
