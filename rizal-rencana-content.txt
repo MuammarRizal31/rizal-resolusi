@@ -8,3 +8,4 @@
  -belajar PHP framework
   *belajar laravel
   -python
+  sering sering mempelajari hal baru
